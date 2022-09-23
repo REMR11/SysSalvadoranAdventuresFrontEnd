@@ -1551,11 +1551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\BlazorWebAssemblyApp\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
+      "projectUniqueName": "C:\\Proyectos\\CPROYECTS\\C5Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
       "projectName": "SysSalvadoranAdventures.UI",
-      "projectPath": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\BlazorWebAssemblyApp\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
+      "projectPath": "C:\\Proyectos\\CPROYECTS\\C5Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\BlazorWebAssemblyApp\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI\\obj\\",
+      "outputPath": "C:\\Proyectos\\CPROYECTS\\C5Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",

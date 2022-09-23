@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bJeA96bBwVmUFV4iKTa42jZkHGqroDKYVg6rB/u2uGjyyxiKXE9PjHOyBLyh2/aKyW7W5jNP3NFJbI+8H3cHQ==",
+  "dgSpecHash": "DSN+T1TzuvsQmzQ6OmumEbRS68OLPmiBlI1XVpx+x/3XeGL5fe7+3rfOrp8GuKXJEXK4DaAPFJK5RqhPjXB8Vw==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\BlazorWebAssemblyApp\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
+  "projectFilePath": "C:\\Proyectos\\CPROYECTS\\C5Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",
