@@ -11,49 +11,53 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = SysSalvadoranAdventures.UI
 build_property.RootNamespace = SysSalvadoranAdventures.UI
-build_property.ProjectDir = C:\Proyectos\CPROYECTS\C5Proyects\SysSalvadoranAdventuresFrontEnd\SysSalvadoranAdventures.UI\
+build_property.ProjectDir = E:\Proyects\C2Proyect\SysSalvadoranAdventuresFrontEnd\SysSalvadoranAdventures.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Proyectos\CPROYECTS\C5Proyects\SysSalvadoranAdventuresFrontEnd\SysSalvadoranAdventures.UI
+build_property.MSBuildProjectDirectory = E:\Proyects\C2Proyect\SysSalvadoranAdventuresFrontEnd\SysSalvadoranAdventures.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/App.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Components/CardSites.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Components/CardSites.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkU2l0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Components/CardSlider.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Components/CardSlider.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkU2xpZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Pages/Counter.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Components/CarruselSites.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJydXNlbFNpdGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Pages/FetchData.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Pages/Index.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Shared/SurveyPrompt.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/_Imports.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Shared/MainLayout.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ip8yj5gva1
 
-[C:/Proyectos/CPROYECTS/C5Proyects/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Shared/NavMenu.razor]
+[E:/Proyects/C2Proyect/SysSalvadoranAdventuresFrontEnd/SysSalvadoranAdventures.UI/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-dm7rm3te8y

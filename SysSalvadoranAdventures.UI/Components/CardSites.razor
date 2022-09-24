@@ -1,6 +1,6 @@
 ﻿@page "/Card"
 
-<MudCard Class="rounded-xl">
+<MudCard Class="rounded-lg">
     <MudCardHeader  Style="@($"background:{Colors.BlueGrey.Darken4};")">
         <CardHeaderAvatar>
             <MudAvatar Style="@($"color:{Colors.Grey.Lighten5}; background:{Colors.Grey.Darken2}")">@idsite</MudAvatar>
@@ -13,11 +13,11 @@
             <MudIconButton Icon="@Icons.Material.Filled.Settings" Style="@($"color:{Colors.Grey.Lighten3};")" />
         </CardHeaderActions>
     </MudCardHeader>
-    <MudCardMedia Class="pa-4 rounded-lg" Image="@imageSite" Height="250" />
+    <MudCardMedia Class="pa-4 rounded-lg" Image="@imageSite" Height="200" />
     <MudCardContent Style="@($"background:{Colors.BlueGrey.Darken4}")">
         <MudText Style="@($"color:{Colors.Grey.Lighten3}")" Typo="Typo.body2">@DescriptionSite</MudText>
     </MudCardContent>
-    <MudCardActions class="rounded-b-xl" Style="@($"background:{Colors.BlueGrey.Darken4}")">
+    <MudCardActions class="rounded-b-lg border-t-4 border-solid border-cyan" Style="@($"background:{Colors.BlueGrey.Darken4}")">
         <MudIconButton Style="@($"color:{Colors.Grey.Lighten1}")" Icon="@Icons.Material.Filled.Favorite" Color="Color.Default" />
         <MudIconButton Style="@($"color:{Colors.Grey.Lighten1};")" Icon="@Icons.Material.Filled.Share" Color="Color.Default" />
     </MudCardActions>
@@ -26,8 +26,12 @@
 @code {
     [Parameter]
     public int idsite{get;set;} = 0;
+    [Parameter]
     public string TitleSite{get;set;}="Title is not found";
+    [Parameter]
     public string UbicationSite{get;set;}="Country is not found";
+    [Parameter]
     public string DescriptionSite {get; set;} ="Description Lorem input";
+    [Parameter]
     public string imageSite {get;set;}="";
 }
