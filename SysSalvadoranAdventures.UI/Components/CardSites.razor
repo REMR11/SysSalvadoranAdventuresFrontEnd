@@ -1,7 +1,7 @@
 ﻿@page "/Card"
 
 <MudCard Class="rounded-lg">
-    <MudCardHeader  Style="@($"background:{Colors.BlueGrey.Darken4};")">
+    <MudCardHeader  Style="@($"background:{Colors.BlueGrey.Darken3};")">
         <CardHeaderAvatar>
             <MudAvatar Style="@($"color:{Colors.Grey.Lighten5}; background:{Colors.Grey.Darken2}")">@idsite</MudAvatar>
         </CardHeaderAvatar>
@@ -14,10 +14,10 @@
         </CardHeaderActions>
     </MudCardHeader>
     <MudCardMedia Class="pa-4 rounded-lg" Image="@imageSite" Height="200" />
-    <MudCardContent Style="@($"background:{Colors.BlueGrey.Darken4}")">
+    <MudCardContent Style="@($"background:{Colors.BlueGrey.Darken3}")">
         <MudText Style="@($"color:{Colors.Grey.Lighten3}")" Typo="Typo.body2">@DescriptionSite</MudText>
     </MudCardContent>
-    <MudCardActions class="rounded-b-lg border-t-4 border-solid border-cyan" Style="@($"background:{Colors.BlueGrey.Darken4}")">
+    <MudCardActions class="rounded-b-lg border-t-4 border-solid border-cyan" Style="@($"background:{Colors.BlueGrey.Darken3}")">
         <MudIconButton Style="@($"color:{Colors.Grey.Lighten1}")" Icon="@Icons.Material.Filled.Favorite" Color="Color.Default" />
         <MudIconButton Style="@($"color:{Colors.Grey.Lighten1};")" Icon="@Icons.Material.Filled.Share" Color="Color.Default" />
     </MudCardActions>

@@ -197,13 +197,13 @@
       "mscorlib.dll": "sha256-MnMyZHtcymf0sLxXeFBbQZVsdNdxT0GXJaa9t3ZdSek=",
       "netstandard.dll": "sha256-+SGdnDhVMiZ9hq0EsYwJ+mcK0odf3bAtXnSKLorGDCs=",
       "System.Private.CoreLib.dll": "sha256-mqfalNg3wC8XHlyA+j5ioNcnc0kt4prNudKdyJoaYaU=",
-      "SysSalvadoranAdventures.UI.dll": "sha256-4ediAtVe5rb658zYALLxN7rN7ZR930uZYb6TIcUkYio="
+      "SysSalvadoranAdventures.UI.dll": "sha256-RjfbURXVLKJy8U41Z9TIVbpuyFKgMwdsWcmIaI4S7ZY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SysSalvadoranAdventures.UI.pdb": "sha256-N5dh4F5yQs0w89kIn8Fx9U9pFE3uk0y2G2vwEEzC0JU="
+      "SysSalvadoranAdventures.UI.pdb": "sha256-feYWuqbnqj0CqHiVC4BcSv2MZGmQ5kHs4eSjq9IJxwU="
     },
     "runtime": {
       "dotnet.6.0.9.jyy92bauii.js": "sha256-Azk5sbYFVo84h8NpIst9roIPGLH2y8ewQ9SY\/sUHvgs=",
