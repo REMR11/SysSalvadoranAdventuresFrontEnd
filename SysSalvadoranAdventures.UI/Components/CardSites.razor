@@ -15,7 +15,8 @@
     </MudCardHeader>
     <MudCardMedia Class="pa-4 rounded-lg" Image="@imageSite" Height="200" />
     <MudCardContent Style="@($"background:{Colors.BlueGrey.Darken3}")">
-        <MudText Style="@($"color:{Colors.Grey.Lighten3}")" Typo="Typo.body2">@DescriptionSite</MudText>
+        <MudText  Style="@($"color:{Colors.Grey.Lighten3}")" Typo="Typo.body2">@DescriptionSite</MudText>
+        <MudRating ReadOnly="true" SelectedValue="@qualification"/>
     </MudCardContent>
     <MudCardActions class="rounded-b-lg border-t-4 border-solid border-cyan" Style="@($"background:{Colors.BlueGrey.Darken3}")">
         <MudIconButton Style="@($"color:{Colors.Grey.Lighten1}")" Icon="@Icons.Material.Filled.Favorite" Color="Color.Default" />
@@ -34,4 +35,6 @@
     public string DescriptionSite {get; set;} ="Description Lorem input";
     [Parameter]
     public string imageSite {get;set;}="";
+    [Parameter]
+    public int qualification{get;set;}= 4;
 }

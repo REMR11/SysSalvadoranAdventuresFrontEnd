@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyects\\C2Proyect\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj": {}
+    "C:\\Proyectos\\CPROYECTS\\C4Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj": {}
   },
   "projects": {
-    "E:\\Proyects\\C2Proyect\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj": {
+    "C:\\Proyectos\\CPROYECTS\\C4Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyects\\C2Proyect\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
+        "projectUniqueName": "C:\\Proyectos\\CPROYECTS\\C4Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
         "projectName": "SysSalvadoranAdventures.UI",
-        "projectPath": "E:\\Proyects\\C2Proyect\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
+        "projectPath": "C:\\Proyectos\\CPROYECTS\\C4Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
         "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyects\\C2Proyect\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\obj\\",
+        "outputPath": "C:\\Proyectos\\CPROYECTS\\C4Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,15 +60,14 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.9, 6.0.9]"
+              "version": "[6.0.7, 6.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

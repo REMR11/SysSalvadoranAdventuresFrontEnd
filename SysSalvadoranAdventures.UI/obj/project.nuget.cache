@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZ/fz2e5fauFVhtIljcFaDpsCLsSFgTUYq0PJLoItzSFBQZOihBkMKHGVjeEDZz1xhytFlMrmOw5y1s8KPt8yg==",
+  "dgSpecHash": "HEUtPpPN7pa0st/nY8Gyk2UiHaWuha080kUsr4+IHokCNvsSejY86pgefyBMsycyJqjudiul2cdjgFg2O+m6ZA==",
   "success": true,
-  "projectFilePath": "E:\\Proyects\\C2Proyect\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
+  "projectFilePath": "C:\\Proyectos\\CPROYECTS\\C4Proyects\\SysSalvadoranAdventuresFrontEnd\\SysSalvadoranAdventures.UI\\SysSalvadoranAdventures.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
@@ -34,7 +34,7 @@
     "C:\\Users\\ronal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\ronal\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.9\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.9.nupkg.sha512"
+    "C:\\Users\\ronal\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.7.nupkg.sha512"
   ],
   "logs": []
 }
